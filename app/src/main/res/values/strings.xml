@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+
+    <string name="denji">Denji</string>
+    <string name="starry_nights">Starry Night</string>
+
+    <string name="denji_year">2023</string>
+    <string name="starry_nights_year">1888</string>
+
+    <string name="zero_two">Zero Two</string>
+    <string name="adomi_bridge">Adomi Bridge</string>
+
+    <string name="zero_two_year">2021</string>
+    <string name="adomi_bridge_year">March 1955</string>
+
+    <string name="sanji">Sanji</string>
+    <string name="bloukrans_bridge">Bloukrans Bridge</string>
+
+    <string name="sanji_year">2022</string>
+    <string name="bloukrans_bridge_year">June 1983</string>
+
+    <string name="naruto">Naruto</string>
+    <string name="unity_tridge_tanzania">Unity Tridge Tanzania</string>
+
+    <string name="naruto_year">2020</string>
+    <string name="unity_tridge_tanzania_year">October 2005</string>
+</resources>
